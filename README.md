@@ -1,2 +1,0 @@
-# DataPower
-Miracle DataPower Docs
